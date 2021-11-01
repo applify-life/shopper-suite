@@ -7,7 +7,7 @@ A collection of tools for mystery shoppers
 
 * Photos - Take photos to submit within reports. Acts as proof of visits and verifies reported conditions.
 
-* Audio/Video Recording
+* Audio/Video Recording - Assists in recalling interactions for easier reporting.
 
 * Shop Log
 
