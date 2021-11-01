@@ -9,6 +9,6 @@ A collection of tools for mystery shoppers
 
 * Audio/Video Recording - Assists in recalling interactions for easier reporting.
 
-* Shop Log
+* Shop Log - Maintain a record of upcoming shops, completed shops, expenses, and payment.
 
 * Mystery Shop Company Directory
