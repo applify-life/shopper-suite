@@ -11,4 +11,4 @@ A collection of tools for mystery shoppers
 
 * Shop Log - Maintain a record of upcoming shops, completed shops, expenses, and payment.
 
-* Mystery Shop Company Directory
+* Mystery Shop Company Directory - See a list of mystery shop companies and use a direct link to access shopper sign up or login.
