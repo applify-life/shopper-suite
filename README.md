@@ -1,7 +1,7 @@
 # Shopper Suite
 A collection of tools for mystery shoppers
 
-* Notes
+* Notes - Save important information from your shops. Aids in more accurate completion of reports.
 
 * Timer
 
